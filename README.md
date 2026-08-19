@@ -6,7 +6,7 @@ I'm a Computer Science student at **San Francisco State University**, graduating
 
 I enjoy turning ideas into working products — from designing user-facing features and APIs to building databases, training ML models, and collaborating through Git-based development workflows.
 
-Currently exploring **Software Engineering, Full-Stack, Backend, and AI/ML opportunities**.
+Currently exploring **Software Engineering, Full-Stack, Frontend, Backend, and AI/ML opportunities**.
 
 ---
 
